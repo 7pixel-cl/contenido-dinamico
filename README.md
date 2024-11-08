@@ -2,6 +2,12 @@
 
 Este proyecto es una aplicación web simple que muestra una lista de empleados en un formato de tarjetas utilizando Bootstrap.
 
+
+
+![image](https://github.com/user-attachments/assets/24c70c1f-e96b-4d71-96c2-1989818ae4fa)
+
+
+
 ## Tecnologías Utilizadas
 
 - Python
@@ -13,7 +19,7 @@ Este proyecto es una aplicación web simple que muestra una lista de empleados e
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/***
+   git https://github.com/7pixel-cl/contenido-dinamico.git
    cd tu-repositorio
    ```
 
